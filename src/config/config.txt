@@ -1,0 +1,5 @@
+SERVER: localhost
+PORT: 3306
+DB: proyectoturismo
+USER: root
+PASSWORD: Medac
